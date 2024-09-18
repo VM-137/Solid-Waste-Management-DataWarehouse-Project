@@ -1,0 +1,11 @@
+
+dateid
+date
+year
+quarter
+quarterName
+month
+monthname
+day
+weekday
+weekdayName
