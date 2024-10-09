@@ -19,9 +19,6 @@ This project focuses on designing and implementing a data warehouse for a solid 
 6. [Docker Setup](#docker-setup)
    - [Docker Compose (`docker-compose.yml`)](#docker-compose-docker-composeyml)
    - [Starting the Services](#starting-the-services)
-7. [Screenshots](#screenshots)
-8. [Learning Objectives](#learning-objectives)
-9. [License](#license)
 
 
 ## Project Structure
